@@ -6,7 +6,7 @@ set an environment variable to point to the committed profile.  The default is ~
 file can be committed.  It uses the same docker container as the `dbt-core` test suite.
 
 ```
-$ export DBT_PROFILES_DIR=~/Projects/test_projects/basic-dbt
+$ export DBT_PROFILES_DIR=~/path/to/basic-dbt
 ```
 
 
